@@ -6,3 +6,4 @@ The metadata and catalog domain working groups have merged to become the Metadat
 * Raes Lieven <lieven.raes@kb.vlaanderen.be>
 * Byron Cochrane <bcochrane@linz.govt.nz>
 * Ted Habermann <thabermann@hdfgroup.org>
+* Frédéric Houbie <frederic.houbie@hexagon.com>
