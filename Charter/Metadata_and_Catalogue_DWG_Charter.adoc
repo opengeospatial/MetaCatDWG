@@ -1,0 +1,109 @@
+*OGC Project Document 18-XXX*
+
+*TITLE: Metadata and Catalogue Domain Working Group Charter*
+
+*Author (s) Name: Byron Cochrane, Ted Habermann, Frédéric Houbie, Lieven Raes, Danny Vandenbroucke *
+
+*Organizations: LINZ, HDF Group, Hexagon Geospatial/Luciad, AGIV, University of Leuven
+
+*Email(s):TBD *
+
+*Date: 27 August 2018*
+
+*CATEGORY: Domain Working Group *
+
+= Introduction
+
+This Domain Working Group charter defines the role for OGC activities within the Metadata & Catalogue community and to provide an open forum for the discussion and presentation of interoperability requirements, use cases, pilots, and implementations of OGC standards in this domain. This Charter is to be presented to the OGC’s Technical and Planning committees for consideration.
+
+Domains as distinct Information Communities that defines a user domain where:
+
+* A distinct market, application or business approach exists
+* Common data definition, structure, syntax, and definitions exists
+* Common user requirements exist
+* Common approach to vendors exists
+
+It is expected that this group will have strong interactions with the UN Expert Group on the Integration of $$$TBD and Geospatial Information, which operates under mandate from both UN $$$TBD Commission and UN Group of Experts on Global Geospatial Information Management.
+
+== Working Group
+
+Operation of OGC Domain Working Group follows the policies and procedures of the http://portal.opengeospatial.org/files/?artifact_id=23325[Technical Committee] . The following definitions from the Technical Policies and Procedures apply to this DWG Charter template.
+
+Definition of a Domain Working Group: A group (organizationally, a subgroup of the TC) of individuals composed of members of the TC and invited guests, with the specific intent of solving some particular interoperability problem or problems in a particular technology domain for recommendation to the Technical Committee.
+
+Functions of a Domain Working Group:
+
+* Provide a forum for discussion and documentation of interoperability requirements for a given information or user community;
+* Provide a forum to discuss, document and recommend actions related to Interoperability Program Reports.
+* Develop Change Requests Proposals (CRPs) for existing OGC Standards.
+* Develop engineering reports with the intent of seeking approval by the TC for release of these documents as OGC White Papers, link:#_gjdgxs[Discussion Papers] or link:#_30j0zll[Best Practices Papers].
+* Informational presentations and discussions about the market use of adopted OGC Standards.
+
+* Have a formal approved charter that defines the DWGs Scope of Work and estimated timeline for completion of the work.
+* Have all-member voting policies (unless otherwise stated).
+
+* Have missions and goals defined by the TC.
+
+A DWG Does Not work on RFC submissions, candidate standards, or revisions to existing OGC Standards. However, a DWG can develop change requests and document interoperability requirements that can then be submitted as work items to a SWG.
+
+A DWG may determine that they wish to have public collaboration, such as in teleconference, email discussions, or a public wiki. In this case, the DWG shall make a motion to the TC to approve public participation in the DWG. Voting in DWGs is by simple majority of OGC Members present at the WG meeting, not just Voting TC Members, with the caveat that no OGC Member organization may cast more than one vote in a WG vote.
+
+= Purpose of Working Group
+
+The Metadata and Catalogue DWG is created from the merge of former Metadata DWG and Catalogue DWG, after recommendation by the TC in the Palmerston North TC Meeting and approved by the PC.
+
+The purpose of the Metadata and Catalogue DWG is to collect requirements, animate technology discussions, presentations, and other activities related to Metadata standards, profiles and encoding, their usage in artifacts (data, service, application, …) description and cataloguing.
+
+= Problem Statement
+
+In a world where we create more and more data, the importance of metadata and its discovery process has never been so important. OGC standards are more or less tightly linked to metadata profiles but there is a continuous evolution in requirements for description and discovery processes. The goal of this DWG is to permit discussion and presentations of those requirements and solutions coming from any part of the world for any domains.
+
+= Charter
+== Charter Members.
+
+This Metadata and Catalog DWG is the merge of the existing DWG.
+
+== Key Activities.
+
+
+The Metadata and Catalog DWG will pursue the following key activities:
+
+
+* Discuss and identify primary use cases that would benefit from OGC standards.
+* Identify domain requirements for inclusion in existing or new OGC standards.
+* Identify other practice areas in the OGC that support or could be influenced .
+* Identify related use cases and workflows for Interoperability Experiments or Testbeds.
+
+== Business Case
+
+= Organizational Approach and Scope of Work
+== Metadata and Catalog *Domain Working Group Business Goals*
+
+The Metadata and Catalog Domain Working Group will need to establish a set of business goals that frame the basis for determining the nature and type of recommendations made to OGC, framed around the above mentioned business issues. Examples of the types of discussion for framing goals include
+
+
+* ...
+
+
+
+== Metadata and Catalog Domain Working Group: Mission and Role
+
+
+The Metadata and Catalog DWG will concern itself with technology and technology policy issues, focusing on geodata information and technology interests as related to the Metadata and Cataloguing domain and the means by which those issues are appropriately factored into the OGC standards development process.
+
+The role of the Metadata and Catalog DWG will be to present, refine and focus Metadata and Cataloguing and geospatial interoperability-related issues to the Technical Committee.
+
+
+== Activities planned for Metadata and Catalog DWG
+
+The Metadata and Catalog DWG will undertake a range of activities to support the mission of the group and of the broader OGC community. Specific membership objectives include active participation in the DWG as a stakeholder in presenting to the Technical Committee on status and recommendations on how OGC should best develop and adopt metadata and cataloguing processes.
+
+Specific activities to be undertaken by the Metadata and Catalog DWG include:
+
+Outreach to and organisation of OGC members as well as external organisations to contribute to the DWG.
+
+Describe the landscape of Metadata and Catalog state of the art and identify the opportunities for evolution.
+
+= References
+
+1.
